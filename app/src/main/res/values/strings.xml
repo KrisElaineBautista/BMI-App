@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI APP</string>
+    <string name="edtfname">First Name</string>
+    <string name="edtmi">Middle Initial</string>
+    <string name="edtsname">Surname</string>
+    <string name="btncalculate">CALCULATE</string>
+    <string name="txtHeight">HEIGHT</string>
+    <string name="txtWeight">WEIGHT</string>
+    <string name="edtHeight">cm</string>
+</resources>
